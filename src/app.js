@@ -1,4 +1,12 @@
-
+/*
+* File: app.js
+* Author: Bodnár Bence
+* Copyright: 2023, Bodnár Bence
+* Group: Szoft I-2 N
+* Date: 2023-05-19
+* Github: https://github.com/janos/
+* Licenc: GNU GPL
+*/
 
 const doc = {
     tbody: document.querySelector('#tbody')
